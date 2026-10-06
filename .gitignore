@@ -1,0 +1,6 @@
+node_modules
+work
+.env
+bin/ffmpeg*
+bin/ffprobe*
+output

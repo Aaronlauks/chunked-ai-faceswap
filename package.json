@@ -1,0 +1,16 @@
+{
+  "name": "video-chunk-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "multer": "^2.0.0",
+    "undici": "^6.19.0"
+  }
+}
